@@ -1,0 +1,15 @@
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\obj\Debug\Layer.Business.csproj.AssemblyReference.cache
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\obj\Debug\Layer.Business.csproj.CoreCompileInputs.cache
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Business.dll.config
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Business.dll
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Business.pdb
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\EntityFramework.dll
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Data.dll
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Data.pdb
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\Layer.Data.dll.config
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\EntityFramework.xml
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\obj\Debug\Layer.Bu.CB90BB57.Up2Date
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\obj\Debug\Layer.Business.dll
+C:\WorkSpace\ShopProject\ETicaretProject\Layer.Business\obj\Debug\Layer.Business.pdb

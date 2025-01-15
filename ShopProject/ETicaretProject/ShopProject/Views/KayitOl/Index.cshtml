@@ -1,0 +1,53 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="contact-form spad">
+    <div class="container">
+        <h2>Kullanıcı Kayıt</h2>
+    </div>
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <form action="~/KayitOl/Register" method="post">
+                    <div class="form-group row">
+                        <label asp-for="Fullname" class="col-md-2 col-form-label">Ad-Soyad</label>
+                        <div class="col-md-10">
+                            <input asp-for="Fullname" value="" class="form-control" name="TxtFullName" />
+                            <span asp-validation-for="Fullname" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label asp-for="Username" class="col-md-2 col-form-label">Kullanıcı Adı</label>
+                        <div class="col-md-10">
+                            <input asp-for="Username" name="TxtUsername" value="" class="form-control" />
+                            <span asp-validation-for="Username" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label asp-for="Email" class="col-md-2 col-form-label">E-mail</label>
+                        <div class="col-md-10">
+                            <input asp-for="Email" name="TxtEMail" value="" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <label asp-for="Passwd" class="col-md-2 col-form-label">Şifre</label>
+                        <div class="col-md-10">
+                            <input asp-for="Passwd" name="TxtSifre" value="" class="form-control" />
+                            <span asp-validation-for="Passwd" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="contact-form spad">
+                        <div class="col-md-10 offset-md-2">
+                            <button type="submit" class="send">Kaydet</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
